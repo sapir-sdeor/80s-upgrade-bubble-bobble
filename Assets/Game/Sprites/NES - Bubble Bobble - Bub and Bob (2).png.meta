@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 52359493ee97b0041bd87570140058cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4640077649386311396
+    second: NES - Bubble Bobble - Bub and Bob (2)_0
+  - first:
+      213: 6770942179547037219
+    second: NES - Bubble Bobble - Bub and Bob (2)_1
+  - first:
+      213: 5008863562250280971
+    second: NES - Bubble Bobble - Bub and Bob (2)_2
+  - first:
+      213: -1417574526215592548
+    second: NES - Bubble Bobble - Bub and Bob (2)_3
+  - first:
+      213: 6713267024065675668
+    second: NES - Bubble Bobble - Bub and Bob (2)_4
+  - first:
+      213: -1638091399329228720
+    second: NES - Bubble Bobble - Bub and Bob (2)_5
+  - first:
+      213: 9009374409278091535
+    second: NES - Bubble Bobble - Bub and Bob (2)_6
+  - first:
+      213: -149630087237109520
+    second: NES - Bubble Bobble - Bub and Bob (2)_7
+  - first:
+      213: -349371236679624075
+    second: NES - Bubble Bobble - Bub and Bob (2)_8
+  - first:
+      213: 6264499918306497314
+    second: NES - Bubble Bobble - Bub and Bob (2)_9
+  - first:
+      213: 2217325082746476203
+    second: NES - Bubble Bobble - Bub and Bob (2)_10
+  - first:
+      213: 5695429233037993901
+    second: NES - Bubble Bobble - Bub and Bob (2)_11
+  - first:
+      213: 1382729308753786288
+    second: NES - Bubble Bobble - Bub and Bob (2)_12
+  - first:
+      213: 1444957513442461975
+    second: NES - Bubble Bobble - Bub and Bob (2)_13
+  - first:
+      213: 8472628754666044203
+    second: NES - Bubble Bobble - Bub and Bob (2)_14
+  - first:
+      213: 5059072553941386153
+    second: NES - Bubble Bobble - Bub and Bob (2)_15
+  - first:
+      213: 136346167930183160
+    second: NES - Bubble Bobble - Bub and Bob (2)_16
+  - first:
+      213: 8763229074610539979
+    second: NES - Bubble Bobble - Bub and Bob (2)_17
+  - first:
+      213: 3335194411705657285
+    second: NES - Bubble Bobble - Bub and Bob (2)_18
+  - first:
+      213: -5270047507023071197
+    second: NES - Bubble Bobble - Bub and Bob (2)_19
+  - first:
+      213: -1190856890613461926
+    second: NES - Bubble Bobble - Bub and Bob (2)_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee86e5b90ed46040800000000000000
+      internalID: 4640077649386311396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3c9ec90837fd50800000000000000
+      internalID: 6770942179547037219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00635c2fde038540800000000000000
+      internalID: 5008863562250280971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e642aa73c35ce0800000000000000
+      internalID: -1417574526215592548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 56
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49147cb3ac05a2d50800000000000000
+      internalID: 6713267024065675668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 56
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058db512d845449e0800000000000000
+      internalID: -1638091399329228720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f381aa4ab70d70800000000000000
+      internalID: 9009374409278091535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8758a7a386cedf0800000000000000
+      internalID: -149630087237109520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad8f616b8c62bf0800000000000000
+      internalID: -349371236679624075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2235f162c79ffe650800000000000000
+      internalID: 6264499918306497314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6daa43a6585ce10800000000000000
+      internalID: 2217325082746476203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ea9636ba3a0f40800000000000000
+      internalID: 5695429233037993901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b57ac4faf0703310800000000000000
+      internalID: 1382729308753786288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190548e3358d0410800000000000000
+      internalID: 1444957513442461975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 19
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b31a366f2d49570800000000000000
+      internalID: 8472628754666044203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ca960faf653640800000000000000
+      internalID: 5059072553941386153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd6f90e1664e100800000000000000
+      internalID: 136346167930183160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd498de96e3d9970800000000000000
+      internalID: 8763229074610539979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7659695adf84e20800000000000000
+      internalID: 3335194411705657285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f47ad6b70dd6b0800000000000000
+      internalID: -5270047507023071197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bubble Bobble - Bub and Bob (2)_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c88a8a7f9397fe0800000000000000
+      internalID: -1190856890613461926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
